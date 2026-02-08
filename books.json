@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to Programming with Python",
+    "course": "Computer Science",
+    "semester": 1,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 82,
+    "label": "Highly Recommended"
+  },
+  {
+    "id": 2,
+    "title": "Discrete Mathematics for CS",
+    "course": "Computer Science",
+    "semester": 2,
+    "difficulty": "Introductory",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 73,
+    "label": "Recommended"
+  },
+  {
+    "id": 3,
+    "title": "Data Structures and Algorithms",
+    "course": "Computer Science",
+    "semester": 3,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 91,
+    "label": "Highly Recommended"
+  },
+  {
+    "id": 4,
+    "title": "Operating Systems: Concepts",
+    "course": "Computer Science",
+    "semester": 5,
+    "difficulty": "Advanced",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 65,
+    "label": "Recommended"
+  },
+  {
+    "id": 5,
+    "title": "Engineering Mechanics",
+    "course": "Mechanical",
+    "semester": 1,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 54,
+    "label": "Recommended"
+  },
+  {
+    "id": 6,
+    "title": "Strength of Materials",
+    "course": "Mechanical",
+    "semester": 3,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 71,
+    "label": "Recommended"
+  },
+  {
+    "id": 7,
+    "title": "Thermodynamics",
+    "course": "Mechanical",
+    "semester": 4,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 66,
+    "label": "Recommended"
+  },
+  {
+    "id": 8,
+    "title": "Fluid Mechanics",
+    "course": "Mechanical",
+    "semester": 5,
+    "difficulty": "Advanced",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 58,
+    "label": "Not Recommended"
+  },
+  {
+    "id": 9,
+    "title": "Principles of Management",
+    "course": "Management",
+    "semester": 1,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 80,
+    "label": "Highly Recommended"
+  },
+  {
+    "id": 10,
+    "title": "Organizational Behaviour",
+    "course": "Management",
+    "semester": 3,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 69,
+    "label": "Recommended"
+  },
+  {
+    "id": 11,
+    "title": "Financial Accounting Basics",
+    "course": "Management",
+    "semester": 2,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 77,
+    "label": "Recommended"
+  },
+  {
+    "id": 12,
+    "title": "Microeconomics",
+    "course": "Management",
+    "semester": 2,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 61,
+    "label": "Recommended"
+  },
+  {
+    "id": 13,
+    "title": "Circuit Theory",
+    "course": "Electronics",
+    "semester": 1,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 85,
+    "label": "Highly Recommended"
+  },
+  {
+    "id": 14,
+    "title": "Signals and Systems",
+    "course": "Electronics",
+    "semester": 3,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 72,
+    "label": "Recommended"
+  },
+  {
+    "id": 15,
+    "title": "Digital Design",
+    "course": "Electronics",
+    "semester": 4,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 63,
+    "label": "Recommended"
+  },
+  {
+    "id": 16,
+    "title": "Control Systems",
+    "course": "Electronics",
+    "semester": 6,
+    "difficulty": "Advanced",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 55,
+    "label": "Not Recommended"
+  },
+  {
+    "id": 17,
+    "title": "Database Systems",
+    "course": "Computer Science",
+    "semester": 4,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 79,
+    "label": "Highly Recommended"
+  },
+  {
+    "id": 18,
+    "title": "Software Engineering",
+    "course": "Computer Science",
+    "semester": 6,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 68,
+    "label": "Recommended"
+  },
+  {
+    "id": 19,
+    "title": "Numerical Methods",
+    "course": "Mechanical",
+    "semester": 4,
+    "difficulty": "Advanced",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 49,
+    "label": "Not Recommended"
+  },
+  {
+    "id": 20,
+    "title": "Marketing Management",
+    "course": "Management",
+    "semester": 4,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 70,
+    "label": "Recommended"
+  },
+  {
+    "id": 21,
+    "title": "Probability and Statistics",
+    "course": "Computer Science",
+    "semester": 2,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 76,
+    "label": "Recommended"
+  },
+  {
+    "id": 22,
+    "title": "Compiler Design",
+    "course": "Computer Science",
+    "semester": 7,
+    "difficulty": "Advanced",
+    "duration_suitability": "Long-term",
+    "past_usage_score": 44,
+    "label": "Not Recommended"
+  },
+  {
+    "id": 23,
+    "title": "Human Resource Management",
+    "course": "Management",
+    "semester": 5,
+    "difficulty": "Intermediate",
+    "duration_suitability": "Medium-term",
+    "past_usage_score": 62,
+    "label": "Recommended"
+  },
+  {
+    "id": 24,
+    "title": "Applied Thermodynamics",
+    "course": "Mechanical",
+    "semester": 2,
+    "difficulty": "Introductory",
+    "duration_suitability": "Short-term",
+    "past_usage_score": 57,
+    "label": "Recommended"
+  }
+]
