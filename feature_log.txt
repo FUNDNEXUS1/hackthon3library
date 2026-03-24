@@ -1,0 +1,90 @@
+
+[2026-03-22T07:47:36.011047+00:00] feature_version=v2
+  semester
+  difficulty_num
+  past_usage_score
+  is_same_semester
+  usage_High
+  usage_Low
+  usage_Medium
+  course_Civil Engineering
+  course_Computer Science
+  course_Data Science
+  course_Electronics
+  course_Management
+  course_Mechanical
+  dur_Long-term
+  dur_Medium-term
+  dur_Short-term
+
+[2026-03-22T07:53:42.805334+00:00] feature_version=v2
+  semester
+  difficulty_num
+  past_usage_score
+  is_same_semester
+  usage_High
+  usage_Low
+  usage_Medium
+  course_Civil Engineering
+  course_Computer Science
+  course_Data Science
+  course_Electronics
+  course_Management
+  course_Mechanical
+  dur_Long-term
+  dur_Medium-term
+  dur_Short-term
+
+[2026-03-22T07:53:44.276427+00:00] feature_version=v2
+  semester
+  difficulty_num
+  past_usage_score
+  is_same_semester
+  usage_High
+  usage_Low
+  usage_Medium
+  course_Civil Engineering
+  course_Computer Science
+  course_Data Science
+  course_Electronics
+  course_Management
+  course_Mechanical
+  dur_Long-term
+  dur_Medium-term
+  dur_Short-term
+
+[2026-03-22T07:57:23.134755+00:00] feature_version=v2
+  semester
+  difficulty_num
+  past_usage_score
+  is_same_semester
+  usage_High
+  usage_Low
+  usage_Medium
+  course_Civil Engineering
+  course_Computer Science
+  course_Data Science
+  course_Electronics
+  course_Management
+  course_Mechanical
+  dur_Long-term
+  dur_Medium-term
+  dur_Short-term
+
+[2026-03-22T15:44:31.733551+00:00] feature_version=v2
+  semester
+  difficulty_num
+  past_usage_score
+  is_same_semester
+  usage_High
+  usage_Low
+  usage_Medium
+  course_Civil Engineering
+  course_Computer Science
+  course_Data Science
+  course_Electronics
+  course_Management
+  course_Mechanical
+  dur_Long-term
+  dur_Medium-term
+  dur_Short-term
